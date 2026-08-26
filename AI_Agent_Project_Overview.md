@@ -5,7 +5,7 @@ Purpose
 
 Summary
 - The AI Agent Project bundles an AI model (MVP) together with orchestration and a simple Windows wrapper so non-developers can launch and monitor the agent on Windows 10/11.
-- The Windows MVP Wrapper provides environment checks, unpacking of the MVP package, environment setup, and a single-run entrypoint (windows_run_wrapper.ps1) to start orchestrator.py and capture logs.
+- The Windows MVP Wrapper provides environment checks, unpacking of the MVP package, environment setup, and a single-run entrypoint (windows_run_wrapper.ps1) to start orchestrator.py and capture lo[
 
 Repository layout (relevant files)
 - README_win_repo.md  — Starter guide for Windows users (this file)

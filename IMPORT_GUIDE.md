@@ -19,4 +19,3 @@ This document explains common import or migration scenarios for the Windows MVP 
 4. Notes
    - Do not commit large model binaries to Git; host them externally (cloud storage) and add download/unpack steps to bootstrap or orchestrator.
    - Keep any PATs or secrets out of repo. Use gh auth, GitHub Actions secrets, or local environment variables.
-
