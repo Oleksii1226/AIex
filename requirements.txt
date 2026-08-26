@@ -1,0 +1,6 @@
+# Requirements for Windows MVP Wrapper
+# Keep minimal; add project-specific dependencies here.
+# Example:
+# requests==2.31.0
+
+
